@@ -1,4 +1,4 @@
-name: action_test
+name: action_test_2
 
 on: [push]
 
