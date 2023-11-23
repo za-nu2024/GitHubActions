@@ -1,7 +1,6 @@
 name: action_test
 
 on: [push]
-
   jobs:
     Hello:
       runs-on: ubuntu-latest
