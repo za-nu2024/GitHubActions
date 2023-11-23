@@ -6,7 +6,7 @@ jobs:
     Hello:
       runs-on: ubuntu-latest
       steps:
-          - name: Hello World Test
-            run: echo "Hello World Test!"
+          - name: actions test Arash
+            run: echo "Arash's Test Action Complete"
         
       
