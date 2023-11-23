@@ -1,1 +1,11 @@
+name: action_test
 
+on: [push]
+
+jobs:
+    Hello:
+      runs-on: ubuntu-latest
+      steps:
+          - name: actions test Arash
+            run: echo "Arash's TestMe2 Action Complete"
+        
